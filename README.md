@@ -25,7 +25,7 @@ Settings exprimenting with in 2020
 | Tire Air Pressure (psi) | 28 | |
 | Shock Air Pressure (psi) | 270 | @10mm sag (15%) |
 | Bands | 5 | |
-| LSR | open -3 | |
+| LSR | open -8 | |
 | HSR | open -4 | |
 | LSC | open -4 | |
 | HSC | open -8 | |
